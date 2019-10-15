@@ -1,2 +1,2 @@
-asdasdasd
-11111111111
+oracle:
+select partition_name from user_tab_partitions where table_name='CMS_ENTITY';---查看对应表的分区情况
